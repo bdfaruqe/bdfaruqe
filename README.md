@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Md. Omor Faruqe
 #### .Net Developer || Angular || SAP B1
-![.Net Developer || Angular || SAP B1](https://i.pinimg.com/originals/a8/24/83/a824833f8ec6f2ff8e79f1313a98cc18.png)
-
 A goal-oriented software engineer looking to join Company and use my expertise in software development and computer programming to create high-quality.
 
 Skills: ASP.NET C# / ANGULAR/ SQL 
