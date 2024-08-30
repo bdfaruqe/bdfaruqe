@@ -2,9 +2,12 @@
 #### .Net Developer || Angular || SAP B1
 A goal-oriented software engineer looking to join Company and use my expertise in software development and computer programming to create high-quality.
 
-Skills: ASP.NET C# / ANGULAR/ SQL 
+Skills: 
+✅ ASP.NET C# 
+✅ ANGULAR
+✅ SQL  
 
-- 🔭 I’m currently working on .NET Core & Angular 
+🔭 I’m currently working on .NET Core & Angular 
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about .NET Core & Angular 
