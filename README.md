@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Core-blue?style=for-the-badge&logo=.net" />
-  <img src="https://img.shields.io/badge/Angular-7-red?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular" />
   <img src="https://img.shields.io/badge/SQL--Server-darkblue?style=for-the-badge&logo=microsoft-sql-server" />
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/SAP-B1-green?style=for-the-badge&logo=sap" />
